@@ -1,9 +1,9 @@
 # CSS
 This repository contains CSS study notes
 
-CSS (Cascading Style Sheets) is the language that specifies how documents/ web pages are presentet to users. With CSS you can design a web page to look exactly how you want. Let's see how it actually works. 
+CSS (Cascading Style Sheets) is the language that specifies how documents/ web pages are presented to users. With CSS you can design a web page to look exactly how you want. Let's see how it actually works. 
 
-First of all, CSS can be implemented in the HTML document itself, but also in a separate document. Most of the time will be a separate document to keep things more clean and easy to manage. 
+First of all, CSS can be implemented in the HTML document itself, but also in a separate document. Most of the time we will find it in a separate document to keep things more clean and easy to manage. 
 
 *CSS has two specific rules, _selectors_ and _properties_.*
 
